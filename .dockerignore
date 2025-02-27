@@ -1,7 +1,7 @@
 
 
 dist/
-node_modeles/
+node_modules/
 
 .env
 .vscode/
